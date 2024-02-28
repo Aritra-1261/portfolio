@@ -1,4 +1,5 @@
 import Styles from "./about.module.css";
+import resume from "./ProjectAssets/Resume.pdf";
 function About() {
   return (
     <div className={`${Styles.sidebar}`}>
@@ -35,7 +36,7 @@ function About() {
             </li>
           </a>
 
-          <a href="#">
+          <a href={`${resume}`} download>
             <li className={`${Styles.listitems}`}>
               <i className={`fa-solid fa-file ${Styles.sideicon}`} />
               <p>
