@@ -1,0 +1,17 @@
+.hi {
+  color: white;
+}
+.hi > br {
+  display: none;
+}
+.words {
+  color: #06e2f7;
+}
+@media screen and (max-width: 500px) {
+  .hi > br {
+    display: block;
+  }
+  .hi {
+    width: 300px;
+  }
+}

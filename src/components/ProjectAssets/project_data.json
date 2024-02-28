@@ -1,0 +1,60 @@
+{
+  "skills": [
+    {
+      "tech_stack": "Web Development",
+      "tech": [
+        { "name": "HTML", "color": "#00ff7f" },
+        { "name": "CSS", "color": "#00ff7f" },
+        { "name": "ReactJS", "color": "#4169e1" },
+        { "name": "Flask", "color": "#555555" }
+      ]
+    },
+    {
+      "tech_stack": "Language",
+      "tech": [
+        { "name": "Python", "color": "#00ff7f" },
+        { "name": "Javascript", "color": "#4169e1" },
+        { "name": "C/C++", "color": "#f0e68c" },
+        { "name": "Java", "color": "#dc143c" },
+        { "name": "Dart", "color": "#555555" }
+      ]
+    },
+    {
+      "tech_stack": "Database",
+      "tech": [
+        { "name": "SQL/Pl-SQL", "color": "#f0e68c" },
+        { "name": "MongoDB", "color": "#dc143c" }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "project_name": "PC - Auto Brightness",
+      "project_img": "/assets/AutoBrightness.jpg",
+      "project_skills": "OpenCV, Tkinter, Python",
+      "project_url": "https://github.com/Aritra-1261/auto-brightness",
+      "live_url": ""
+    },
+    {
+      "project_name": "Blockstagram",
+      "project_img": "/assets/Blockstagram.jpg",
+      "project_skills": "Blockchain, Python, Flask, Html, CSS, Javascript, Redis",
+      "project_url": "https://github.com/Aritra-1261/BLOCKSTAGRAM",
+      "live_url": ""
+    },
+    {
+      "project_name": "Online Image Editor",
+      "project_img": "/assets/OnlinePhotoEditor.jpg",
+      "project_skills": "Html, CSS, Javascript",
+      "project_url": "https://github.com/Aritra-1261/Online_Photo_Editor",
+      "live_url": "https://aritra-1261.github.io/Online_Photo_Editor/"
+    },
+    {
+      "project_name": "Portfolio",
+      "project_img": "#",
+      "project_skills": "ReactJS, Html, CSS, Javascript, JSON",
+      "project_url": "#",
+      "live_url": ""
+    }
+  ]
+}

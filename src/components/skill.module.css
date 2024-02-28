@@ -1,0 +1,35 @@
+.skillbox {
+  padding: 20px;
+  height: 60%;
+  width: 260px;
+  border-radius: 15px;
+  background-color: var(--light-black);
+}
+
+.skillbox > span {
+  color: var(--dark-text);
+  font-size: 1.3em;
+  font-weight: bold;
+}
+.skillbox > div {
+  margin-top: 15px;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 0.7em;
+}
+.skillelement {
+  color: var(--dark-text);
+  background-color: var(--black);
+  font-weight: 600;
+  padding: 5px;
+  display: flex;
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 500px) {
+  .skillbox {
+    height: 80%;
+  }
+}
