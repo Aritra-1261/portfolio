@@ -12,6 +12,7 @@
     display: block;
   }
   .hi {
+    margin: 1em;
     width: 300px;
   }
 }
