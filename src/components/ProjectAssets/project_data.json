@@ -5,6 +5,7 @@
       "tech": [
         { "name": "HTML", "color": "#00ff7f" },
         { "name": "CSS", "color": "#00ff7f" },
+        { "name": "Django", "color": "#00ff7f" },
         { "name": "ReactJS", "color": "#4169e1" },
         { "name": "Flask", "color": "#555555" }
       ]
@@ -34,6 +35,13 @@
       "project_skills": "OpenCV, Tkinter, Python",
       "project_url": "https://github.com/Aritra-1261/auto-brightness",
       "live_url": ""
+    },
+    {
+      "project_name": "CHWEET",
+      "project_img": "/assets/Blockstagram.jpg",
+      "project_skills": "Django, Python, TailwindCSS, HTML, CSS, Javascript, CRUD",
+      "project_url": "https://github.com/Aritra-1261/CHWEET",
+      "live_url": "https://chweet.onrender.com/"
     },
     {
       "project_name": "Blockstagram",
