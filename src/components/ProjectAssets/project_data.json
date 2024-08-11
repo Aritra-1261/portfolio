@@ -38,7 +38,7 @@
     },
     {
       "project_name": "CHWEET",
-      "project_img": "/assets/Blockstagram.jpg",
+      "project_img": "/assets/CHWEET.png",
       "project_skills": "Django, Python, TailwindCSS, HTML, CSS, Javascript, CRUD",
       "project_url": "https://github.com/Aritra-1261/CHWEET",
       "live_url": "https://chweet.onrender.com/"
